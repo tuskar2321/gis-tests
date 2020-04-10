@@ -1,0 +1,28 @@
+
+
+
+---> 12:55:33   Start GIS Server x64 Demo v.9.0.0  05/02/2020 12:55:32
+     12:55:33   [PROTECT] NET = 0
+>>>> 12:55:33   Hard Key not accessible. The number of connections is not more than 4 !
+     12:55:33   Mapaccess library version: 20191218
+---> 12:55:33   Installation check has been completed successfully [24/12/2019 08:20:33]
+---> 12:55:33   Begin of reading parameters - /var/Panorama/gisserver/gisserver.xml
+     12:55:33   Port number : 2047
+     12:55:33   Common rsc path: /usr/gisserver/CommonRsc/
+     12:55:33   User count = 5
+     12:55:33   DocStorage count = 0
+     12:55:33   Depot count = 0
+     12:55:33   DBConnection count = 0
+---> 12:55:33   Data files not found in folder - /var/Panorama/gisserver/Docs/
+     12:55:33   Map count = 4
+     12:55:33   Matrix count = 0
+     12:55:33   Raster count = 0
+     12:55:33   Folder count = 1
+     12:55:33   Atlas count = 0
+     12:55:33   Role count = 4
+---> 12:55:33   End of reading parameters
+---> 12:55:33   The config.xml are not set - /usr/gisserver/config.xml
+---> 12:55:33   Connect timeout (min): 15
+     12:55:33   GIS Server x64 - Running, port = 2047, parameters = /var/Panorama/gisserver/gisserver.xml
+     12:55:33   GIS Server Ini file - /var/Panorama/gisserver/gisserver.ini
+     12:55:33   Start FolderMonitoring thread

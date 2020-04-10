@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  gisserver:
+   build: ./GISserver
+   ports:
+    - 2047:2047
+   networks:
+    - connecting
+
+  pythontest:
+   build: ./pythontests
+#   depend: gisserver
+   links:
+    - gisserver
+   networks:
+    - connecting
+
+networks:
+  connecting:
+   
